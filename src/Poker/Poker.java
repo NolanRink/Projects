@@ -12,7 +12,7 @@ import static Poker.InvalidInputException.checkInputError;
  * @author Nolan Rink nvrk4b
  */
 
-public class FinalProject3330nvrk4b {
+public class Poker {
 
     
     public static void main(String[] args) {
